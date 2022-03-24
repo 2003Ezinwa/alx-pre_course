@@ -1,1 +1,1 @@
-My second readme
+Hello. This is my second readme file.
